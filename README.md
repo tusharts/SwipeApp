@@ -3,6 +3,8 @@ SwipeApp: Tkinter-based GUI for touchscreen swipe simulation via ADB commands. M
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 SwipeApp is a Tkinter-based GUI application designed to simulate touchscreen swipes using Android Debug Bridge (ADB) commands. With SwipeApp, you can effortlessly track swipe counts, duration, and real-time clock while automating left and right swipes. Enhance your efficiency in navigating through potential matches on dating apps and streamline your dating journey.
+![image](https://github.com/tusharts/SwipeApp/assets/72263744/bd1070e6-75a0-49cb-b870-6476f7820ba7)
+
 
 ## Features
 
