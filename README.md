@@ -33,7 +33,3 @@ SwipeApp is designed for educational and informational purposes. While the appli
 ## Contributions
 
 Contributions to improve and enhance SwipeApp are welcome! Feel free to submit pull requests or open issues for any suggestions or bug reports.
-
-## Acknowledgments
-
-SwipeApp is inspired by the need for a more efficient way to navigate through profiles on dating apps. Special thanks to the developers of ADB for providing the tools necessary for interacting with Android devices from a computer.
