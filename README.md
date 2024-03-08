@@ -21,11 +21,10 @@ The logic behind SwipeApp's swiping strategy is to maintain a balanced approach 
 To use SwipeApp, follow these steps:
 
 1. Ensure you have Python installed on your system.
-2. Install the necessary dependencies by running `pip install -r requirements.txt`.
-3. Connect your Android device to your computer and enable USB debugging.
-4. Run the application by executing `python SwipeApp.py`.
-5. Click on "Start Swipes" to begin simulating touchscreen swipes.
-6. Click on "Stop Swipes" to end the swiping operation.
+2. Connect your Android device to your computer and enable USB debugging.
+3. Run the application by executing `python SwipeApp.py`.
+4. Click on "Start Swipes" to begin simulating touchscreen swipes.
+5. Click on "Stop Swipes" to end the swiping operation.
 
 ## Safety
 
