@@ -14,7 +14,7 @@ SwipeApp is a Tkinter-based GUI application designed to simulate touchscreen swi
 
 ## Swipe Strategy
 
-SwipeApp implements a balanced swiping strategy to maximize the likelihood of meaningful matches while mitigating the risk of negative consequences. The default strategy involves two right swipes followed by one left swipe, which users can customize according to their preferences and experiences.
+The logic behind SwipeApp's swiping strategy is to maintain a balanced approach on dating apps. Research suggests that excessive right swipes may lower your profile's rating, while too many left swipes can decrease your chances of matching with potential partners. To address this, SwipeApp implements a strategy of two right swipes followed by one left swipe. This approach aims to maximize the likelihood of meaningful matches while mitigating the risk of negative consequences. Users can customize this strategy according to their preferences and experiences.
 
 ## Getting Started
 
