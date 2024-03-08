@@ -30,10 +30,6 @@ To use SwipeApp, follow these steps:
 
 SwipeApp is designed for educational and informational purposes. While the application itself is safe to use, it's essential to exercise caution and responsibility when interacting with dating apps. Use SwipeApp responsibly and in compliance with the terms of service of the dating apps you use.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 ## Contributions
 
 Contributions to improve and enhance SwipeApp are welcome! Feel free to submit pull requests or open issues for any suggestions or bug reports.
